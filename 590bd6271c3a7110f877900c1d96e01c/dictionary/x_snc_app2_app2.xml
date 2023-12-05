@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="553426af1c3a7110f877900c1d96e068" label="app2" max_length="40" name="x_snc_app2_app2" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+    </element>
+</database>
